@@ -18,6 +18,7 @@
 - Copy the client email address displayed in the web app and paste it in the share section of google sheet with role as editor
 -  After selecting and filtering the columns with the help of the web app, click the button "Convert" to trigger the action.
 
-### Output Video
+### Video Demo
 
-https://github.com/StackItHQ/stackit-hiring-assignment-Krishshrk/assets/93509656/b8c16705-0ec9-4e4b-b075-4fc8ad982630
+https://github.com/Krishshrk/CSV-Importer/assets/93509656/9b716082-d990-4c38-ad05-9dbfb99c683e
+
